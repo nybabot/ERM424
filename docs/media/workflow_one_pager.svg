@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 620" width="100%" role="img" aria-labelledby="title desc" lang="en">
+<title id="title">The risk analytics workflow</title>
+<desc id="desc">The risk analytics workflow. From raw operational data to a risk decision, in six stages. Each stage is one course objective; the weeks of the course walk the line left to right. Six stages left to right: Prepare (CO1): clean, transform, integrate, document. Home weeks 1, 2, 3; returns in weeks 5. Analyze (CO2): describe, visualize, find anomalies. Home weeks 2, 3, 4. Select methods (CO3): match the method to the question. Home weeks 5, 6. Model (CO4): estimate likelihood, severity, drivers. Home weeks 7, 8. Validate and evaluate (CO5): uncertainty, performance, bias, limits. Home weeks 8, 9; returns in weeks 3, 4. Communicate (CO6): reproducible analyses, dashboards, briefs. Home weeks 10; practised every week (weeks 1 to 9). Solid marks are home weeks; light marks with a ring are weeks the stage returns; the underline marks a stage practised every week.</desc>
+<style>
+    .head { font-family: Campton, 'Helvetica Neue', Arial, sans-serif; font-weight: 700; }
+    .body { font-family: 'Akkurat Pro', Akkurat, Helvetica, Arial, sans-serif; font-weight: 400; }
+    .bold { font-family: 'Akkurat Pro', Akkurat, Helvetica, Arial, sans-serif; font-weight: 700; }
+</style>
+<rect width="1600" height="620" fill="#FFFFFF"/>
+<text x="60" y="72" font-size="44" class="head" fill="#4E2A84" text-anchor="start">The risk analytics workflow</text>
+<text x="60" y="108" font-size="21" class="body" fill="#342F2E" text-anchor="start">From raw operational data to a risk decision, in six stages. Each stage is one course objective; the weeks of the course walk the line left to right.</text>
+<g aria-label="Six stages, left to right">
+<g aria-label="Stage 1, Prepare, CO1">
+<polygon points="60,150 295.667,150 321.667,210 295.667,270 60,270" fill="#4E2A84"/>
+<text x="72" y="178" font-size="20" class="bold" fill="#B6ACD1" text-anchor="start">1</text>
+<text x="190.833" y="208" font-size="25" class="head" fill="#FFFFFF" text-anchor="middle">Prepare</text>
+<text x="190.833" y="242" font-size="21" class="bold" fill="#FFFFFF" text-anchor="middle">CO1</text>
+<text x="190.833" y="300" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">clean, transform,</text>
+<text x="190.833" y="322" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">integrate, document</text>
+</g>
+<g aria-label="Stage 2, Analyze, CO2">
+<polygon points="303.667,150 539.333,150 565.333,210 539.333,270 303.667,270 329.667,210" fill="#4E2A84"/>
+<text x="341.667" y="178" font-size="20" class="bold" fill="#B6ACD1" text-anchor="start">2</text>
+<text x="447.5" y="208" font-size="25" class="head" fill="#FFFFFF" text-anchor="middle">Analyze</text>
+<text x="447.5" y="242" font-size="21" class="bold" fill="#FFFFFF" text-anchor="middle">CO2</text>
+<text x="447.5" y="300" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">describe, visualize,</text>
+<text x="447.5" y="322" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">find anomalies</text>
+</g>
+<g aria-label="Stage 3, Select methods, CO3">
+<polygon points="547.333,150 783,150 809,210 783,270 547.333,270 573.333,210" fill="#4E2A84"/>
+<text x="585.333" y="178" font-size="20" class="bold" fill="#B6ACD1" text-anchor="start">3</text>
+<text x="691.167" y="208" font-size="25" class="head" fill="#FFFFFF" text-anchor="middle">Select methods</text>
+<text x="691.167" y="242" font-size="21" class="bold" fill="#FFFFFF" text-anchor="middle">CO3</text>
+<text x="691.167" y="300" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">match the method</text>
+<text x="691.167" y="322" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">to the question</text>
+</g>
+<g aria-label="Stage 4, Model, CO4">
+<polygon points="791,150 1026.67,150 1052.67,210 1026.67,270 791,270 817,210" fill="#4E2A84"/>
+<text x="829" y="178" font-size="20" class="bold" fill="#B6ACD1" text-anchor="start">4</text>
+<text x="934.833" y="208" font-size="25" class="head" fill="#FFFFFF" text-anchor="middle">Model</text>
+<text x="934.833" y="242" font-size="21" class="bold" fill="#FFFFFF" text-anchor="middle">CO4</text>
+<text x="934.833" y="300" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">estimate likelihood,</text>
+<text x="934.833" y="322" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">severity, drivers</text>
+</g>
+<g aria-label="Stage 5, Validate and evaluate, CO5">
+<polygon points="1034.67,150 1270.33,150 1296.33,210 1270.33,270 1034.67,270 1060.67,210" fill="#4E2A84"/>
+<text x="1072.67" y="178" font-size="20" class="bold" fill="#B6ACD1" text-anchor="start">5</text>
+<text x="1178.5" y="200" font-size="25" class="head" fill="#FFFFFF" text-anchor="middle">Validate</text>
+<text x="1178.5" y="228" font-size="25" class="head" fill="#FFFFFF" text-anchor="middle">and evaluate</text>
+<text x="1178.5" y="256" font-size="21" class="bold" fill="#FFFFFF" text-anchor="middle">CO5</text>
+<text x="1178.5" y="300" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">uncertainty, performance,</text>
+<text x="1178.5" y="322" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">bias, limits</text>
+</g>
+<g aria-label="Stage 6, Communicate, CO6">
+<polygon points="1278.33,150 1514,150 1540,210 1514,270 1278.33,270 1304.33,210" fill="#4E2A84"/>
+<text x="1316.33" y="178" font-size="20" class="bold" fill="#B6ACD1" text-anchor="start">6</text>
+<text x="1422.17" y="208" font-size="25" class="head" fill="#FFFFFF" text-anchor="middle">Communicate</text>
+<text x="1422.17" y="242" font-size="21" class="bold" fill="#FFFFFF" text-anchor="middle">CO6</text>
+<text x="1422.17" y="300" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">reproducible analyses,</text>
+<text x="1422.17" y="322" font-size="18" class="body" fill="#4E2A84" text-anchor="middle">dashboards, briefs</text>
+</g>
+</g>
+<g aria-label="Weeks of the course, one row per stage">
+<text x="300" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="end">Weeks</text>
+<text x="371.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W1</text>
+<text x="494.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W2</text>
+<text x="617.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W3</text>
+<text x="740.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W4</text>
+<text x="863.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W5</text>
+<text x="986.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W6</text>
+<text x="1109.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W7</text>
+<text x="1232.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W8</text>
+<text x="1355.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W9</text>
+<text x="1478.5" y="360" font-size="15" class="bold" fill="#342F2E" text-anchor="middle">W10</text>
+<g aria-label="Prepare (CO1): home weeks 1, 2, 3; returns in weeks 5">
+<text x="300" y="389.12" font-size="17" class="body" fill="#342F2E" text-anchor="end">Prepare (CO1)</text>
+<rect x="312" y="370" width="119" height="26" fill="#4E2A84"/><text x="371.5" y="388.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">1</text>
+<rect x="435" y="370" width="119" height="26" fill="#4E2A84"/><text x="494.5" y="388.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+<rect x="558" y="370" width="119" height="26" fill="#4E2A84"/><text x="617.5" y="388.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="681" y="370" width="119" height="26" fill="#E4E0EE"/>
+<rect x="804" y="370" width="119" height="26" fill="#B6ACD1"/><circle cx="852.25" cy="383" r="6.3" fill="none" stroke="#4E2A84" stroke-width="2"/><text x="868" y="388.4" font-size="15" class="bold" fill="#4E2A84" text-anchor="middle">5</text>
+<rect x="927" y="370" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1050" y="370" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1173" y="370" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1296" y="370" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1419" y="370" width="119" height="26" fill="#E4E0EE"/>
+</g>
+<g aria-label="Analyze (CO2): home weeks 2, 3, 4">
+<text x="300" y="419.12" font-size="17" class="body" fill="#342F2E" text-anchor="end">Analyze (CO2)</text>
+<rect x="312" y="400" width="119" height="26" fill="#E4E0EE"/>
+<rect x="435" y="400" width="119" height="26" fill="#4E2A84"/><text x="494.5" y="418.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">2</text>
+<rect x="558" y="400" width="119" height="26" fill="#4E2A84"/><text x="617.5" y="418.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">3</text>
+<rect x="681" y="400" width="119" height="26" fill="#4E2A84"/><text x="740.5" y="418.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">4</text>
+<rect x="804" y="400" width="119" height="26" fill="#E4E0EE"/>
+<rect x="927" y="400" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1050" y="400" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1173" y="400" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1296" y="400" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1419" y="400" width="119" height="26" fill="#E4E0EE"/>
+</g>
+<g aria-label="Select methods (CO3): home weeks 5, 6">
+<text x="300" y="449.12" font-size="17" class="body" fill="#342F2E" text-anchor="end">Select methods (CO3)</text>
+<rect x="312" y="430" width="119" height="26" fill="#E4E0EE"/>
+<rect x="435" y="430" width="119" height="26" fill="#E4E0EE"/>
+<rect x="558" y="430" width="119" height="26" fill="#E4E0EE"/>
+<rect x="681" y="430" width="119" height="26" fill="#E4E0EE"/>
+<rect x="804" y="430" width="119" height="26" fill="#4E2A84"/><text x="863.5" y="448.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">5</text>
+<rect x="927" y="430" width="119" height="26" fill="#4E2A84"/><text x="986.5" y="448.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">6</text>
+<rect x="1050" y="430" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1173" y="430" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1296" y="430" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1419" y="430" width="119" height="26" fill="#E4E0EE"/>
+</g>
+<g aria-label="Model (CO4): home weeks 7, 8">
+<text x="300" y="479.12" font-size="17" class="body" fill="#342F2E" text-anchor="end">Model (CO4)</text>
+<rect x="312" y="460" width="119" height="26" fill="#E4E0EE"/>
+<rect x="435" y="460" width="119" height="26" fill="#E4E0EE"/>
+<rect x="558" y="460" width="119" height="26" fill="#E4E0EE"/>
+<rect x="681" y="460" width="119" height="26" fill="#E4E0EE"/>
+<rect x="804" y="460" width="119" height="26" fill="#E4E0EE"/>
+<rect x="927" y="460" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1050" y="460" width="119" height="26" fill="#4E2A84"/><text x="1109.5" y="478.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">7</text>
+<rect x="1173" y="460" width="119" height="26" fill="#4E2A84"/><text x="1232.5" y="478.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">8</text>
+<rect x="1296" y="460" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1419" y="460" width="119" height="26" fill="#E4E0EE"/>
+</g>
+<g aria-label="Validate and evaluate (CO5): home weeks 8, 9; returns in weeks 3, 4">
+<text x="300" y="509.12" font-size="17" class="body" fill="#342F2E" text-anchor="end">Validate and evaluate (CO5)</text>
+<rect x="312" y="490" width="119" height="26" fill="#E4E0EE"/>
+<rect x="435" y="490" width="119" height="26" fill="#E4E0EE"/>
+<rect x="558" y="490" width="119" height="26" fill="#B6ACD1"/><circle cx="606.25" cy="503" r="6.3" fill="none" stroke="#4E2A84" stroke-width="2"/><text x="622" y="508.4" font-size="15" class="bold" fill="#4E2A84" text-anchor="middle">3</text>
+<rect x="681" y="490" width="119" height="26" fill="#B6ACD1"/><circle cx="729.25" cy="503" r="6.3" fill="none" stroke="#4E2A84" stroke-width="2"/><text x="745" y="508.4" font-size="15" class="bold" fill="#4E2A84" text-anchor="middle">4</text>
+<rect x="804" y="490" width="119" height="26" fill="#E4E0EE"/>
+<rect x="927" y="490" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1050" y="490" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1173" y="490" width="119" height="26" fill="#4E2A84"/><text x="1232.5" y="508.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">8</text>
+<rect x="1296" y="490" width="119" height="26" fill="#4E2A84"/><text x="1355.5" y="508.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">9</text>
+<rect x="1419" y="490" width="119" height="26" fill="#E4E0EE"/>
+</g>
+<g aria-label="Communicate (CO6): home weeks 10; practised every week">
+<text x="300" y="539.12" font-size="17" class="body" fill="#342F2E" text-anchor="end">Communicate (CO6)</text>
+<rect x="312" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="435" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="558" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="681" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="804" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="927" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1050" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1173" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1296" y="520" width="119" height="26" fill="#E4E0EE"/>
+<rect x="1419" y="520" width="119" height="26" fill="#4E2A84"/><text x="1478.5" y="538.4" font-size="15" class="bold" fill="#FFFFFF" text-anchor="middle">10</text>
+<rect x="312" y="541" width="1103" height="5" fill="#836EAA"/>
+<text x="863.5" y="536.4" font-size="14.45" class="body" fill="#4E2A84" text-anchor="middle">practised every week</text>
+</g>
+</g>
+<g aria-label="Legend">
+<rect x="60" y="566" width="15" height="15" fill="#4E2A84"/>
+<text x="82.5" y="578" font-size="15" class="body" fill="#342F2E" text-anchor="start">Solid: the stage&#39;s home weeks.</text>
+<rect x="337.5" y="566" width="15" height="15" fill="#B6ACD1"/><circle cx="345" cy="573.5" r="4.2" fill="none" stroke="#4E2A84" stroke-width="2"/>
+<text x="360" y="578" font-size="15" class="body" fill="#342F2E" text-anchor="start">Light with a ring: the stage returns here.</text>
+<rect x="705" y="576.5" width="15" height="4.5" fill="#836EAA"/>
+<text x="727.5" y="578" font-size="15" class="body" fill="#342F2E" text-anchor="start">Underline: practised every week.</text>
+</g>
+<text x="60" y="606" font-size="14" class="body" fill="#716C6B" text-anchor="start">ERM 424 Statistics and Data Analytics for Risk Management</text>
+<text x="1540" y="606" font-size="14" class="body" fill="#716C6B" text-anchor="end">Northwestern University School of Professional Studies</text>
+</svg>

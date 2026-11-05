@@ -1,0 +1,151 @@
+incident_id,branch_code,incident_date,category,customers_affected,duration_minutes,resolved_same_day,reported_by
+725494,BR-109,2025-01-03,Payment Processing,38,42,Yes,Customer
+971101,BR-106,2025-01-04,Staffing Shortfall,15,244,Yes,Branch Staff
+866622,BR-111,2025-01-05,Staffing Shortfall,43,230,Yes,Branch Staff
+322637,BR-106,2025-01-09,Portal Outage,362,29,Yes,Customer
+981332,BR-105,2025-01-10,Facility,48,66,Yes,Branch Staff
+207736,BR-103,2025-01-18,Phone Outage,35,76,Yes,Monitoring System
+378175,BR-110,2025-01-18,Payment Processing,75,135,Yes,Branch Staff
+110750,BR-105,2025-01-30,Phone Outage,141,138,Yes,Monitoring System
+546144,BR-103,2025-01-30,Staffing Shortfall,29,241,Yes,Branch Staff
+599804,BR-101,2025-02-01,Portal Outage,243,5400,Yes,Monitoring System
+205854,BR-105,2025-02-04,Payment Processing,39,69,Yes,Monitoring System
+282870,BR-103,2025-02-12,Portal Outage,382,81,No,Monitoring System
+767021,BR-105,2025-02-17,Portal Outage,380,81,Yes,Monitoring System
+857444,BR-109,2025-02-17,Payment Processing,35,34,Yes,Monitoring System
+356586,BR-109,2025-02-20,Phone Outage,202,87,Yes,Branch Staff
+656117,BR-103,2025-02-25,Staffing Shortfall,6,160,Yes,Customer
+260984,BR-111,2025-02-27,Staffing Shortfall,15,344,No,Branch Staff
+345360,BR-104,2025-02-28,Staffing Shortfall,8,191,Yes,Branch Staff
+858182,BR-101,2025-02-28,Portal Outage,128,40,Yes,Monitoring System
+472145,BR-103,2025-03-01,Payment Processing,20,10,Yes,Customer
+140870,BR-108,2025-03-04,Payment Processing,36,31,Yes,Monitoring System
+168741,BR-104,2025-03-04,Facility,2,274,Yes,Branch Staff
+698091,BR-110,2025-03-06,Portal Outage,400,48,Yes,Branch Staff
+484431,BR-111,2025-03-13,Phone Outage,30,106,Yes,Customer
+538192,BR-107,2025-03-16,Payment Processing,5,84,Yes,Monitoring System
+355579,BR-106,2025-03-18,Staffing Shortfall,37,146,Yes,Branch Staff
+356957,BR-107,2025-03-19,Staffing Shortfall,16,358,Yes,Branch Staff
+979380,BR-112,2025-03-22,Payment Processing,13,27,Yes,Branch Staff
+208028,BR-104,2025-03-24,Payment Processing,15,73,Yes,Branch Staff
+887636,BR-102,2025-03-25,Payment Processing,32,70,Yes,Monitoring System
+654625,BR-111,2025-03-26,Portal Outage,61,68,Yes,Monitoring System
+151920,BR-112,2025-03-29,Portal Outage,128,19,Yes,Monitoring System
+507208,BR-109,2025-03-30,Phone Outage,34,60,Yes,Branch Staff
+142973,BR-103,2025-04-01,Phone Outage,23,139,Yes,Monitoring System
+391859,BR-105,2025-04-01,Staffing Shortfall,14,95,Yes,Branch Staff
+732175,BR-103,2025-04-02,Payment Processing,44,61,Yes,Monitoring System
+409737,BR-103,2025-04-04,Phone Outage,111,167,Yes,Customer
+729558,BR-109,2025-04-04,Phone Outage,70,345,No,Monitoring System
+809364,BR-110,2025-04-06,Phone Outage,87,46,Yes,Monitoring System
+783044,BR-110,2025-04-07,Staffing Shortfall,22,356,Yes,Branch Staff
+393789,BR-102,2025-04-09,Phone Outage,39,98,Yes,Branch Staff
+409318,BR-110,2025-04-11,Facility,0,84,Yes,Customer
+443371,BR-111,2025-04-13,Staffing Shortfall,23,274,Yes,Branch Staff
+883538,BR-104,2025-04-17,Payment Processing,124,94,Yes,Branch Staff
+879738,BR-105,2025-04-21,Phone Outage,60,132,Yes,Monitoring System
+935883,BR-112,2025-04-21,Portal Outage,239,38,Yes,Branch Staff
+142196,BR-109,2025-04-22,Portal Outage,328,44,Yes,Monitoring System
+232698,BR-108,2025-04-27,Payment Processing,50,40,No,Monitoring System
+166352,BR-101,2025-04-28,Facility,12,244,Yes,Branch Staff
+253007,BR-110,2025-04-28,Phone Outage,39,49,Yes,Monitoring System
+613199,BR-111,2025-04-30,Facility,8,206,Yes,Branch Staff
+895643,BR-106,2025-05-01,Portal Outage,72,52,Yes,Customer
+889636,BR-101,2025-05-04,Staffing Shortfall,13,123,Yes,Customer
+253100,BR-104,2025-05-06,Payment Processing,21,66,Yes,Branch Staff
+276036,BR-101,2025-05-10,Payment Processing,137,45,Yes,Branch Staff
+575444,BR-107,2025-05-15,Portal Outage,10,96,Yes,Customer
+301518,BR-111,2025-05-17,Payment Processing,65,76,Yes,Branch Staff
+725186,BR-105,2025-05-18,Portal Outage,169,26,Yes,Monitoring System
+233512,BR-109,2025-05-19,Portal Outage,182,54,Yes,Customer
+670842,BR-103,2025-05-21,Staffing Shortfall,13,159,Yes,Branch Staff
+186624,BR-109,2025-05-23,Staffing Shortfall,14,458,Yes,Customer
+923660,BR-111,2025-05-23,Staffing Shortfall,0,545,No,Branch Staff
+821618,BR-107,2025-05-24,Facility,15,156,No,Customer
+456945,BR-110,2025-05-27,Payment Processing,126,39,Yes,Branch Staff
+930303,BR-111,2025-05-28,Staffing Shortfall,15,273,No,Branch Staff
+361930,BR-101,2025-06-03,Staffing Shortfall,11,391,Yes,Branch Staff
+389986,BR-107,2025-06-07,Facility,4,230,Yes,Branch Staff
+957595,BR-107,2025-06-07,Facility,17,189,Yes,Branch Staff
+486465,BR-103,2025-06-08,Phone Outage,151,67,Yes,Monitoring System
+782219,BR-108,2025-06-09,Facility,12,279,Yes,Branch Staff
+195543,BR-110,2025-06-12,Payment Processing,61,42,Yes,Branch Staff
+279672,BR-108,2025-06-16,Staffing Shortfall,8,304,Yes,Branch Staff
+762690,BR-108,2025-06-20,Phone Outage,115,63,Yes,Monitoring System
+342822,BR-104,2025-06-22,Portal Outage,163,26,Yes,Monitoring System
+504826,BR-109,2025-06-25,Staffing Shortfall,15,219,Yes,Branch Staff
+983425,BR-102,2025-06-26,Payment Processing,40,140,Yes,Branch Staff
+965156,BR-104,2025-06-30,Facility,39,203,Yes,Branch Staff
+635436,BR-101,2025-07-02,Staffing Shortfall,3,108,Yes,Branch Staff
+801860,BR-103,2025-07-06,Phone Outage,256,78,Yes,Monitoring System
+997404,BR-107,2025-07-06,Phone Outage,108,97,Yes,Monitoring System
+405021,BR-106,2025-07-18,Staffing Shortfall,19,274,Yes,Branch Staff
+338061,BR-102,2025-07-21,Phone Outage,99,18,Yes,Branch Staff
+706526,BR-105,2025-07-22,Phone Outage,56,39,Yes,Monitoring System
+994382,BR-105,2025-07-23,Portal Outage,228,53,Yes,Monitoring System
+615079,BR-111,2025-07-24,Phone Outage,110,316,No,Monitoring System
+513954,BR-112,2025-07-25,Staffing Shortfall,23,131,Yes,Branch Staff
+255802,BR-112,2025-07-28,Phone Outage,51,37,Yes,Monitoring System
+337537,BR-103,2025-08-01,Facility,11,182,Yes,Branch Staff
+399727,BR-107,2025-08-04,Phone Outage,240,44,Yes,Customer
+820831,BR-107,2025-08-05,Facility,20,597,No,Branch Staff
+934817,BR-105,2025-08-10,Portal Outage,133,26,Yes,Branch Staff
+503393,BR-111,2025-08-11,Staffing Shortfall,7,544,No,Branch Staff
+808815,BR-105,2025-08-11,Facility,35,121,Yes,Branch Staff
+942076,BR-104,2025-08-11,Staffing Shortfall,64,142,Yes,Branch Staff
+242943,BR-108,2025-08-12,Payment Processing,88,21,Yes,Branch Staff
+585556,BR-102,2025-08-12,Facility,6,132,Yes,Customer
+352032,BR-112,2025-08-17,Payment Processing,7,22,Yes,Branch Staff
+376821,BR-101,2025-08-17,Staffing Shortfall,40,177,Yes,Branch Staff
+311815,BR-111,2025-08-18,Facility,4,201,Yes,Branch Staff
+697276,BR-102,2025-08-20,Phone Outage,40,156,Yes,Branch Staff
+183614,BR-110,2025-08-21,Facility,19,250,Yes,Branch Staff
+787812,BR-104,2025-08-24,Staffing Shortfall,45,101,Yes,Branch Staff
+366907,BR-104,2025-08-25,Facility,9,324,No,Branch Staff
+719729,BR-109,2025-08-26,Facility,5,489,No,Branch Staff
+563587,BR-110,2025-08-27,Facility,15,547,No,Branch Staff
+544185,BR-104,2025-09-07,Payment Processing,8,44,Yes,Branch Staff
+911048,BR-106,2025-09-07,Phone Outage,23,91,Yes,Branch Staff
+322133,BR-105,2025-09-09,Portal Outage,128,53,Yes,Branch Staff
+201586,BR-109,2025-09-13,Phone Outage,217,188,Yes,Monitoring System
+750665,BR-109,2025-09-15,Payment Processing,31,47,Yes,Monitoring System
+190734,BR-108,2025-09-16,Facility,9,121,Yes,Customer
+882562,BR-110,2025-09-22,Phone Outage,42,47,Yes,Monitoring System
+750199,BR-111,2025-09-24,Portal Outage,76,95,Yes,Monitoring System
+111286,BR-108,2025-09-28,Staffing Shortfall,50,232,Yes,Branch Staff
+902410,BR-107,2025-09-28,Payment Processing,9,43,Yes,Branch Staff
+699189,BR-111,2025-10-02,Phone Outage,34,97,Yes,Customer
+553729,BR-112,2025-10-04,Phone Outage,35,223,Yes,Monitoring System
+362143,BR-107,2025-10-06,Payment Processing,32,13,Yes,Customer
+410246,BR-102,2025-10-10,Payment Processing,17,106,Yes,Customer
+601262,BR-111,2025-10-10,Staffing Shortfall,26,225,Yes,Branch Staff
+806865,BR-107,2025-10-12,Phone Outage,131,46,Yes,Branch Staff
+394823,BR-106,2025-10-14,Facility,14,555,No,Branch Staff
+714133,BR-105,2025-10-14,Facility,4,562,No,Branch Staff
+198451,BR-105,2025-10-17,Facility,6,79,Yes,Customer
+573897,BR-109,2025-10-21,Staffing Shortfall,5,211,Yes,Branch Staff
+507666,BR-102,2025-10-27,Payment Processing,8,228,Yes,Branch Staff
+243343,BR-102,2025-10-30,Staffing Shortfall,20,189,No,Branch Staff
+454152,BR-111,2025-10-30,Phone Outage,33,88,Yes,Monitoring System
+734682,BR-106,2025-11-03,Portal Outage,354,100,Yes,Monitoring System
+775192,BR-107,2025-11-04,Payment Processing,108,50,Yes,Customer
+371484,BR-105,2025-11-09,Staffing Shortfall,41,327,Yes,Branch Staff
+235214,BR-111,2025-11-13,Phone Outage,14,60,Yes,Branch Staff
+916174,BR-108,2025-11-14,Portal Outage,32,46,Yes,Branch Staff
+355438,BR-103,2025-11-16,Phone Outage,108,79,Yes,Monitoring System
+435308,BR-108,2025-11-18,Portal Outage,72,72,Yes,Customer
+423199,BR-103,2025-11-25,Phone Outage,84,189,Yes,Customer
+528808,BR-109,2025-11-25,Staffing Shortfall,12,397,Yes,Branch Staff
+297574,BR-105,2025-11-29,Phone Outage,230,83,Yes,Monitoring System
+960573,BR-112,2025-12-01,Portal Outage,333,111,Yes,Branch Staff
+876663,BR-111,2025-12-02,Facility,10,125,Yes,Branch Staff
+269717,BR-111,2025-12-03,Portal Outage,104,108,Yes,Branch Staff
+786518,BR-108,2025-12-04,Staffing Shortfall,13,103,Yes,Branch Staff
+138042,BR-101,2025-12-05,Staffing Shortfall,10,365,Yes,Branch Staff
+370719,BR-108,2025-12-17,Payment Processing,36,101,Yes,Branch Staff
+643601,BR-103,2025-12-19,Facility,10,114,Yes,Branch Staff
+599397,BR-104,2025-12-22,Payment Processing,11,35,Yes,Branch Staff
+485338,BR-106,2025-12-26,Portal Outage,165,32,Yes,Monitoring System
+474960,BR-109,2025-12-27,Staffing Shortfall,9,410,No,Customer
+669041,BR-110,2025-12-27,Payment Processing,30,8,Yes,Customer
+357404,BR-105,2025-12-30,Staffing Shortfall,18,342,No,Branch Staff

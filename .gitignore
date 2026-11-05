@@ -1,0 +1,16 @@
+# Colab CLI and local execution leftovers
+*_output.ipynb
+*_executed*.ipynb
+.ipynb_checkpoints/
+
+# Profiler reports written beside a notebook
+*.html
+
+# Python
+__pycache__/
+*.pyc
+
+# Editors and OS
+.vscode/
+.DS_Store
+Thumbs.db
