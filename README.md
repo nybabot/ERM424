@@ -16,6 +16,8 @@ Course files for ERM 424, Northwestern University School of Professional Studies
 | `notebooks/companion/` | The van Buuren Python companion (Module 3, ungraded) |
 | `data/claims/` | The Corvane Mutual claims data for Modules 1 to 3, with the data dictionaries (`m2_claims_DICTIONARY.md`, `m3_DICTIONARY.md`) |
 | `generators/claims_world.py` | The generator that First Contact Stage 3 uses to build a 2,000,000-row frame inside your session |
+| `data/lakefill/` | The Lakefill National Bank operational loss data for Modules 5 to 10: the 2021 to 2025 loss event history (`lakefill_losses_raw.csv`), the monthly exposure table (`lakefill_exposure_monthly.csv`) and the data dictionary (`lakefill_DICTIONARY.md`). Later files are added in the weeks the course names. |
+| `generators/lakefill_world.py` | The Lakefill schema, loaders and panel builder that the Module 5 to 10 notebooks use |
 | `docs/ai_protocol/` | The AI Protocol page, the Module 3 role prompt, and the Part B disclosure form (AI means artificial intelligence) |
 | `docs/media/` | The risk analytics workflow one-pager |
 | `docs/sync/` | The week 2 live-session notebook, added after that session |
@@ -24,7 +26,7 @@ Modules 4 to 10 are added as the course progresses.
 
 ## About the data
 
-Corvane Mutual Insurance Company is fictional. Every data file is synthetic and generated for this course; no real claims, policyholders or people appear in it. Read each module's data dictionary before working with its file.
+Corvane Mutual Insurance Company (Modules 1 to 4) and Lakefill National Bank (Modules 5 to 10) are fictional. Every data file is synthetic and generated for this course; no real claims, policyholders, losses or people appear in it. Read each module's data dictionary before working with its file.
 
 ## Questions
 
